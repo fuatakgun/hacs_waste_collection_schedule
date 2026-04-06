@@ -1529,6 +1529,11 @@
     "howto": {},
     "urls": {}
   },
+  "luxembourg_lu": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/luxembourg_lu.md",
+    "howto": {},
+    "urls": {}
+  },
   "sica_lu": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/sica_lu.md",
     "howto": {},
@@ -1952,15 +1957,6 @@
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/lund_se.md",
     "howto": {},
     "urls": {}
-  },
-  "luxembourg_lu": {
-    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/luxembourg_lu.md",
-    "howto": {
-      "en": "Download/open the CSV from data.public.lu and copy the values from the columns Commune, Localité and Rue exactly (including accents)."
-    },
-    "urls": {
-      "url_data_public_lu_luxembourg_waste_csv": "https://data.public.lu/fr/datasets/calendrier-des-dechets-collectes-par-commune/"
-    }
   },
   "molndal_se": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/molndal_se.md",

@@ -13052,12 +13052,6 @@
   ],
   "Luxembourg": [
     {
-      "title": "Luxembourg (All Communes)",
-      "module": "luxembourg_lu",
-      "default_params": {},
-      "id": "luxembourg_lu"
-    },
-    {
       "title": "Bettembourg",
       "module": "ics",
       "default_params": {},
@@ -13074,6 +13068,12 @@
       "module": "esch_lu",
       "default_params": {},
       "id": "esch_lu"
+    },
+    {
+      "title": "Luxembourg",
+      "module": "luxembourg_lu",
+      "default_params": {},
+      "id": "luxembourg_lu"
     },
     {
       "title": "SICA",
